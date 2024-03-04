@@ -1,0 +1,86 @@
+{
+  "Cyprus": {
+    "places": [
+      {
+        "name": "Troodos Mountains",
+        "image": "https://staywildtravels.com/wp-content/uploads/2021/01/Pedoulas.jpg"
+      },
+      {
+        "name": "Kykkos Monastery",
+        "image": "https://thumbs.dreamstime.com/b/august-cyprus-main-courtyard-active-greek-orthodox-kykkos-monastery-troodos-mountains-august-cyprus-main-courtyard-146853629.jpg"
+      },
+      {
+        "name": "Tombs of the Kings",
+        "image": "https://i.pinimg.com/originals/ad/01/38/ad01384caf55f6954ad5bd54912507d9.jpg"
+      },
+      {
+        "name": "Kourion Archaeological Site",
+        "image": "https://i.pinimg.com/736x/d8/a1/5f/d8a15faf169b55a3dd033ecbd8718356.jpg"
+      },
+      {
+        "name": "Latchi",
+        "image": "https://thumbs.dreamstime.com/b/preveli-beach-famous-beautiful-river-azure-clear-water-tropical-palm-forest-behind-southern-crete-island-249278750.jpg"
+      },
+      {
+        "name": "Akamas Peninsula",
+        "image": "https://i.pinimg.com/originals/61/ff/d0/61ffd0c372914e5bbd816803a17a5610.jpg"
+      }
+    ]
+  },
+  "France": {
+    "places": [
+      {
+        "name": "Eiffel Tower",
+        "image": "https://i.pinimg.com/originals/a5/72/33/a5723316e88fac875c02b6d4a92a4ef5.jpg"
+      },
+      {
+        "name": "Louvre Museum",
+        "image": "https://i.pinimg.com/originals/e7/43/96/e7439634ef4aa56254aad0daf078098f.jpg"
+      },
+      {
+        "name": "Versailles Palace",
+        "image": "https://i.pinimg.com/originals/3e/95/d0/3e95d060f374ec13b6ebfdffa1918416.jpg"
+      },
+      {
+        "name": "Mont Saint-Michel",
+        "image": "https://misadventureswithandi.com/wp-content/uploads/2019/06/Low-tide-in-the-Early-morning-at-Mont-St-Michel-Normandy-France-2.jpg"
+      },
+      {
+        "name": "Champs-Élysées",
+        "image": "https://afar.brightspotcdn.com/dims4/default/8dee54c/2147483647/strip/true/crop/1399x729+0+138/resize/1680x876!/quality/90/?url=https:%2F%2Fafar-media-production-web.s3.amazonaws.com%2Fbrightspot%2F60%2Fa5%2Ff4b8b05ebe42b02c2d3eb36b7526%2Foriginal-etoile-20aerienne-20-c2-a9pca-stream.jpg"
+      },
+      {
+        "name": "Côte d'Azur",
+        "image": "https://www.interhome.de/upload/travelguide/c%C3%B4te-azur-straende-calanque-d-en-vau.jpg"
+      }
+    ]
+  },
+  "Japan": {
+    "places": [
+      {
+        "name": "Mount Fuji",
+        "image": "https://example.com/mount_fuji.jpg"
+      },
+      {
+        "name": "Tokyo Skytree",
+        "image": "https://example.com/tokyo_skytree.jpg"
+      },
+      {
+        "name": "Himeji Castle",
+        "image": "https://example.com/himeji_castle.jpg"
+      },
+      {
+        "name": "Arashiyama Bamboo Grove",
+        "image": "https://example.com/arashiyama_bamboo_grove.jpg"
+      },
+      {
+        "name": "Fushimi Inari Shrine",
+        "image": "https://example.com/fushimi_inari_shrine.jpg"
+      },
+      {
+        "name": "Kinkaku-ji",
+        "image": "https://example.com/kinkaku_ji.jpg"
+      }
+    ]
+  }
+}
