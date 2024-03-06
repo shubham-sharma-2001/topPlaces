@@ -64,32 +64,32 @@
     },
     {
       "name": {
-        "common": "Japan"
+        "common": "India"
       },
       "places": [
         {
-          "name": "Mount Fuji",
-          "image": "https://example.com/mount_fuji.jpg"
+          "name": "Varanasi, Uttar Pradesh",
+          "image": "https://www.travelogy.com.mx/blog/wp-content/uploads/2019/08/Sunset-Stroll-in-the-varanasi-Ghats.jpg"
         },
         {
-          "name": "Tokyo Skytree",
-          "image": "https://example.com/tokyo_skytree.jpg"
+          "name": "Udaipur, Rajasthan",
+          "image": "https://www.skymetweather.com/content/wp-content/uploads/2019/04/udaipur-city-palace-148132813635-orijgp.jpg"
         },
         {
-          "name": "Himeji Castle",
-          "image": "https://example.com/himeji_castle.jpg"
+          "name": "Munnar, Kerala",
+          "image": "https://www.revv.co.in/blogs/wp-content/uploads/2021/02/Munnar-HD-Image.jpg"
         },
         {
-          "name": "Arashiyama Bamboo Grove",
-          "image": "https://example.com/arashiyama_bamboo_grove.jpg"
+          "name": "Jaisalmer, Rajasthan",
+          "image": "https://catbirdinindia.files.wordpress.com/2011/03/270.jpg"
         },
         {
-          "name": "Fushimi Inari Shrine",
-          "image": "https://example.com/fushimi_inari_shrine.jpg"
+          "name": "Darjeeling, West Bengal",
+          "image": "https://www.tripcrafters.com/agent/trip_photos/Batasia-loop-Darjeeling-1360x765.jpg"
         },
         {
-          "name": "Kinkaku-ji",
-          "image": "https://example.com/kinkaku_ji.jpg"
+          "name": "Rishikesh, Uttarakhand",
+          "image": "https://www.triptyme.com/wp-content/uploads/sites/17/2016/06/rishikesh.jpg"
         }
       ]
     }
